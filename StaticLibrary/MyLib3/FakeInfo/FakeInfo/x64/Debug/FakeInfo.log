@@ -1,0 +1,29 @@
+﻿  Date.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\Date.cpp(6,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FakeAddress.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\FakeAddress.cpp(328,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FakeBirthday.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FakeEmail.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\FakeEmail.cpp(20,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\FakeEmail.cpp(47,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Fakename.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\Fakename.cpp(44,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\Fakename.cpp(44,134): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\Fakename.cpp(44,192): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FakeTel.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\FakeTel.cpp(21,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  random.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Time.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\Time.cpp(6,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tokenizer.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\tokenizer.cpp(18,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\tokenizer.cpp(40,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\tokenizer.cpp(53,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  FakeInfo.vcxproj -> D:\OOP\StaticLibrary\MyLib3\FakeInfo\x64\Debug\FakeInfo.lib

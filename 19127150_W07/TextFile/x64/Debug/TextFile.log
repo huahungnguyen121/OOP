@@ -1,0 +1,7 @@
+﻿  Header.cpp
+  main.cpp
+  tokenizer.cpp
+D:\OOP\19127150_W07\TextFile\tokenizer.cpp(19,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\19127150_W07\TextFile\tokenizer.cpp(41,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  TextFile.vcxproj -> D:\OOP\19127150_W07\x64\Debug\TextFile.exe

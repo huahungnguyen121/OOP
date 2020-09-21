@@ -1,0 +1,9 @@
+﻿  FakeTel.cpp
+D:\OOP\19127150_W06\FakeTel\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\19127150_W06\FakeTel\FakeTel.cpp(21,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\OOP\19127150_W06\FakeTel\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  random.cpp
+D:\OOP\19127150_W06\FakeTel\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  FakeTel.vcxproj -> D:\OOP\19127150_W06\x64\Debug\FakeTel.exe

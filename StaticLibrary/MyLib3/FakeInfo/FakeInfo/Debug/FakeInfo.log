@@ -1,0 +1,19 @@
+﻿  Date.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\Date.cpp(188,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FakeAddress.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\FakeAddress.cpp(341,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FakeBirthday.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\FakeBirthday.cpp(98,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FakeEmail.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\FakeEmail.cpp(51,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Fakename.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\Fakename.cpp(76,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FakeTel.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\FakeTel.cpp(26,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  random.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\random.cpp(10,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Time.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\Time.cpp(142,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  tokenizer.cpp
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\tokenizer.cpp(57,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

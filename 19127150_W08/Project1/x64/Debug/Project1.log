@@ -1,0 +1,7 @@
+﻿  FakeStudent.cpp
+D:\OOP\19127150_W08\Project1\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\19127150_W08\Project1\FakeStudent.cpp(45,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\OOP\19127150_W08\Project1\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> D:\OOP\19127150_W08\x64\Debug\Project1.exe

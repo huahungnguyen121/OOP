@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\OOP\19127150_W0910\Robot\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\19127150_W0910\Robot\main.cpp(20,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Robot.cpp
+D:\OOP\19127150_W0910\Robot\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\19127150_W0910\Robot\Robot.cpp(178,27): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+D:\OOP\19127150_W0910\Robot\Robot.cpp(286): warning C4715: 'Megatron::getInfo': not all control paths return a value
+  Robot.vcxproj -> D:\OOP\19127150_W0910\x64\Debug\Robot.exe

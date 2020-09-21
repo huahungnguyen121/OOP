@@ -1,0 +1,7 @@
+﻿  Farm.cpp
+D:\OOP\19127150_W0910\Farm\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+D:\OOP\19127150_W0910\Farm\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\19127150_W0910\Farm\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Farm.vcxproj -> D:\OOP\19127150_W0910\x64\Debug\Farm.exe

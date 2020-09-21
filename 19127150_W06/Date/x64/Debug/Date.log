@@ -1,0 +1,9 @@
+﻿  Date.cpp
+D:\OOP\19127150_W06\Date\Date.cpp(6,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  tokenizer.cpp
+D:\OOP\19127150_W06\Date\tokenizer.cpp(18,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\19127150_W06\Date\tokenizer.cpp(40,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\19127150_W06\Date\tokenizer.cpp(53,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Date.vcxproj -> D:\OOP\19127150_W06\x64\Debug\Date.exe

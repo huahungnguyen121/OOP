@@ -1,0 +1,14 @@
+﻿  FakeEmail.cpp
+D:\OOP\19127150_W06\FakeEmail\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\19127150_W06\FakeEmail\FakeEmail.cpp(20,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\19127150_W06\FakeEmail\FakeEmail.cpp(47,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\OOP\19127150_W06\FakeEmail\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  random.cpp
+D:\OOP\19127150_W06\FakeEmail\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tokenizer.cpp
+D:\OOP\19127150_W06\FakeEmail\tokenizer.cpp(18,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\19127150_W06\FakeEmail\tokenizer.cpp(40,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP\19127150_W06\FakeEmail\tokenizer.cpp(53,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  FakeEmail.vcxproj -> D:\OOP\19127150_W06\x64\Debug\FakeEmail.exe

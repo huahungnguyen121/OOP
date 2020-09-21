@@ -1,0 +1,7 @@
+﻿  Cinema.cpp
+D:\OOP\Theory_W07\Practice7.5\Cinema.cpp(5,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\OOP\Theory_W07\Practice7.5\Cinema.cpp(47,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\OOP\Theory_W07\Practice7.5\main.cpp(6,45): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Practice7.5.vcxproj -> D:\OOP\Theory_W07\Debug\Practice7.5.exe

@@ -1,0 +1,15 @@
+Total Employees: 13
+Worker Vo Van Khoi made 840 product(s), his/her salary will be 2725000
+Manager Tran Van Huy has 1 year(s) experience, his/her salary will be 3450000
+Daily Employee Phan Duy Oanh workdays: 28, his/her salary will be 5600000
+Manager Dang Bich Tri has 5 year(s) experience, his/her salary will be 6034071
+Manager Vo Duy Diem has 28 year(s) experience, his/her salary will be 150196832
+Worker Huynh Thi Dung made 481 product(s), his/her salary will be 1558250
+Daily Employee Pham Minh Hieu workdays: 30, his/her salary will be 6000000
+Manager Dang Dinh Khoi has 5 year(s) experience, his/her salary will be 6034071
+Worker Dang Hua Hieu made 362 product(s), his/her salary will be 1171500
+Manager Dang Kim Thao has 9 year(s) experience, his/her salary will be 10553629
+Worker Huynh Minh Hung made 962 product(s), his/her salary will be 3121500
+Worker Le Minh Thao made 346 product(s), his/her salary will be 1119500
+Daily Employee Vu Van Khoi workdays: 6, his/her salary will be 1200000
+Total salary: 198764368

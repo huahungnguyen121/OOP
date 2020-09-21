@@ -1,0 +1,20 @@
+19
+Square a=31
+Rectangle a=145 b=60
+Rectangle a=2 b=1
+Triangle a=104 b=64 c=109
+Triangle a=147 b=154 c=144
+Circle r=83
+Triangle a=124 b=89 c=85
+Rectangle a=81 b=47
+Square a=138
+Square a=101
+Square a=191
+Triangle a=50 b=198 c=189
+Circle r=44
+Triangle a=190 b=147 c=56
+Rectangle a=77 b=47
+Square a=198
+Circle r=12
+Rectangle a=75 b=26
+Triangle a=153 b=80 c=134

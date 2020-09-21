@@ -1,0 +1,2 @@
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\x64\Debug\FakeInfo.pdb
+D:\OOP\StaticLibrary\MyLib3\FakeInfo\FakeInfo\x64\Debug\FakeInfo.pdb

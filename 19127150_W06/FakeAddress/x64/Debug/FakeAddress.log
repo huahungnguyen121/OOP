@@ -1,0 +1,9 @@
+﻿  FakeAddress.cpp
+D:\OOP\19127150_W06\FakeAddress\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\19127150_W06\FakeAddress\FakeAddress.cpp(328,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\OOP\19127150_W06\FakeAddress\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  random.cpp
+D:\OOP\19127150_W06\FakeAddress\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  FakeAddress.vcxproj -> D:\OOP\19127150_W06\x64\Debug\FakeAddress.exe

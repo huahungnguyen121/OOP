@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\OOP\19127150_W0910\Salaries\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\19127150_W0910\Salaries\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Salary.cpp
+D:\OOP\19127150_W0910\Salaries\random.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OOP\19127150_W0910\Salaries\Salary.cpp(18,36): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\OOP\19127150_W0910\Salaries\Salary.cpp(35,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\OOP\19127150_W0910\Salaries\Salary.cpp(53,22): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\OOP\19127150_W0910\Salaries\Salary.cpp(55,40): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Salaries.vcxproj -> D:\OOP\19127150_W0910\x64\Debug\Salaries.exe
